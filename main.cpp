@@ -4,9 +4,9 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	
-	for (int c =0; c < 10;c++){
+	for (int c =0; c <= 10;c++){
 		cout << c <<endl; 
-	} // 0-9
+	} // 0-10
 	
 	
 	
